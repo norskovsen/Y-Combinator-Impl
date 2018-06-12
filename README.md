@@ -1,5 +1,5 @@
 # Y-Combinator-Impl
-![y.combinator](./y-combinator.png)
+![y.combinator](img/y-combinator.png)
 
 This is my implementations of the Y-Combinator in different programming languages. The Y-Combinator is a way to make recursive functions in programming languages which does not support it. It was discovered by [Haskell B. Curry](https://en.wikipedia.org/wiki/Haskell_Curry) and defined using [Lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus).
 
