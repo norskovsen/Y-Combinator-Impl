@@ -14,6 +14,7 @@ I learned about the Y-combinator when watching the ComputerPhiles video about th
 - [ ] Java
 - [ ] Rust
 - [ ] C
+- [ ] Haskell
 
 ## More information
 Good places to learn more about the Y-Combinator:
