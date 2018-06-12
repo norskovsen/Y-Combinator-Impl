@@ -10,7 +10,7 @@ I learned about the Y-combinator when watching the ComputerPhiles video about th
 ## Programming languages
 - [x] Javascript
 - [x] Elisp
-- [ ] Python
+- [x] Python
 - [ ] Java
 - [ ] Rust
 - [ ] C
