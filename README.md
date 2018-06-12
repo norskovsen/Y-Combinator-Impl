@@ -7,6 +7,14 @@ This is my implementations of the Y-Combinator in different programming language
 ## Inspiration
 I learned about the Y-combinator when watching the ComputerPhiles video about the Y-Combinator after watching their video about lambda calculus. I did not quite understand it at first. Therfore I decided to try and implement it to get a better understand it
 
+## Programming languages
+- [x] Javascript
+- [x] Elisp
+- [ ] Python
+- [ ] Java
+- [ ] Rust
+- [ ] C
+
 ## More information
 Good places to learn more about the Y-Combinator:
 - [Wikipedia](https://en.wikipedia.org/wiki/Fixed-point_combinator)
