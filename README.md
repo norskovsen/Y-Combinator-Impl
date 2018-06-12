@@ -11,10 +11,11 @@ I learned about the Y-combinator when watching the ComputerPhiles video about th
 - [x] Javascript
 - [x] Elisp
 - [x] Python
-- [ ] Java
-- [ ] Rust
-- [ ] C
 - [ ] Haskell
+- [ ] Rust
+- [ ] Scheme
+- [ ] Java
+- [ ] C
 
 ## More information
 Good places to learn more about the Y-Combinator:
