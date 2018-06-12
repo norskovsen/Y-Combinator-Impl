@@ -21,6 +21,6 @@ Good places to learn more about the Y-Combinator:
 - [Computerphile](https://www.youtube.com/user/Computerphile) videos
   - [Lambda Calculus](https://www.youtube.com/watch?v=eis11j_iGMs)
   - [Y-combinator](https://www.youtube.com/watch?v=9T8A89jgeTI)
-- [Talk: Func with Lambda Calculus](https://www.youtube.com/watch?v=QPqoFCHpLF4)
+- [Talk: Fun with Lambda Calculus](https://www.youtube.com/watch?v=QPqoFCHpLF4)
 - [Talk: Advendures in functional programming](https://www.youtube.com/watch?v=QPqoFCHpLF4)
 - [Website: Explained with Javascript](http://kestas.kuliukas.com/YCombinatorExplained/)
