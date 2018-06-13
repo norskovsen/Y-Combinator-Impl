@@ -16,11 +16,10 @@ My implementations except for in `Haskell` is the Z-Combinator, which is the Y-C
 - [x] Javascript
 - [x] Elisp
 - [x] Python
-- [ ] Haskell
-- [ ] Rust
-- [ ] Scheme
+- [x] Scheme
 - [ ] Java
-- [ ] C
+- [ ] Rust
+- [ ] Haskell
 
 ## More information
 Good places to learn more about the Y-Combinator:
