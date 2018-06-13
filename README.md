@@ -10,7 +10,7 @@ I learned about the Y-combinator when watching the [Computerphile](https://www.y
 ## Z-Combinator
 ![z.combinator](img/z-comb.png)
 
-My implementations except for in `Haskell` is the Z-Combinator, which is the Y-Combinator for eager evaluating languages. This prevents infinte loops my wrapping the function in another lambda.
+My implementations except for in `Haskell` is the Z-Combinator, which is the Y-Combinator for eager evaluating languages. This prevents infinte loops by wrapping the inner function in another lambda.
 
 ## Programming languages
 - [x] Javascript
