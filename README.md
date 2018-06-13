@@ -18,7 +18,7 @@ My implementations except for in `Haskell` is the Z-Combinator, which is the Y-C
 - [x] Python
 - [x] Scheme
 - [x] Java
-- [ ] Ruby
+- [x] Ruby
 - [ ] Haskell
 
 ## More information
