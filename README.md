@@ -20,7 +20,6 @@ My implementations except for in `Haskell` is the Z-Combinator, which is the Y-C
 - [ ] Rust
 - [ ] Scheme
 - [ ] Java
-- [ ] C
 
 ## More information
 Good places to learn more about the Y-Combinator:
