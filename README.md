@@ -19,7 +19,7 @@ My implementations except for in `Haskell` is the Z-Combinator, which is the Y-C
 - [x] Scheme
 - [x] Java
 - [x] Ruby
-- [ ] Haskell
+- [x] Haskell
 
 ## More information
 Good places to learn more about the Y-Combinator:
