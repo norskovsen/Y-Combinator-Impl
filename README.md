@@ -17,7 +17,7 @@ My implementations except for in `Haskell` is the Z-Combinator, which is the Y-C
 - [x] Elisp
 - [x] Python
 - [x] Scheme
-- [ ] Java
+- [x] Java
 - [ ] Rust
 - [ ] Haskell
 
