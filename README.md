@@ -5,7 +5,7 @@ This is my implementations of the Y-Combinator in different programming language
 
 
 ## Inspiration
-I learned about the Y-combinator when watching the [Computerphile](https://www.youtube.com/user/Computerphile) video about the [Wikipedia](https://en.wikipedia.org/wiki/Fixed-point_combinator) after watching their video about [Lambda Calculus](https://en.wikipedia.org/wiki/Lambda_calculus).. I did not quite understand it at first. Therfore I decided to try and implement it to get a better understand it
+I learned about the Y-combinator when watching the [Computerphile](https://www.youtube.com/user/Computerphile) video about the [Wikipedia](https://en.wikipedia.org/wiki/Fixed-point_combinator) after watching their video about [Lambda Calculus](https://en.wikipedia.org/wiki/Lambda_calculus).. I did not quite understand it at first. Therefore I decided to try and implement it to get a better understand it
 
 ## Z-Combinator
 ![z.combinator](img/z-comb.png)
