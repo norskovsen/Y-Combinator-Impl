@@ -1,2 +1,4 @@
 *~
 *.class
+erl_crash.dump
+*.beam

@@ -20,6 +20,8 @@ My implementations except for in `Haskell` is the Z-Combinator, which is the Y-C
 - [x] Java
 - [x] Ruby
 - [x] Haskell
+- [x] Erlang
+- [x] Elixir
 
 ## More information
 Good places to learn more about the Y-Combinator:
@@ -30,3 +32,4 @@ Good places to learn more about the Y-Combinator:
 - [Talk: Fun with Lambda Calculus](https://www.youtube.com/watch?v=QPqoFCHpLF4)
 - [Talk: Advendures in functional programming](https://www.youtube.com/watch?v=QPqoFCHpLF4)
 - [Website: Explained with Javascript](http://kestas.kuliukas.com/YCombinatorExplained/)
+- [Website: Explained with Elixir](https://www.petecorey.com/blog/2017/10/30/grokking-the-y-combinator-with-elixir/)
